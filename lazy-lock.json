@@ -1,6 +1,11 @@
 {
-  "gitsigns.nvim": { "branch": "main", "commit": "550e251986ead5cbd1191307c28c6b7dbd453d10" },
+  "gitsigns.nvim": { "branch": "main", "commit": "b14b9fba7d085ed8c11392aa51e575de84822bb1" },
   "lazy.nvim": { "branch": "main", "commit": "59335c5b9d116f5d3948f833288a89e2a829a005" },
+  "mason.nvim": { "branch": "main", "commit": "d66c60e17dd6fd8165194b1d14d21f7eb2c1697a" },
+  "neodev.nvim": { "branch": "main", "commit": "5147640bc8435ca3557a105ebd1143bc20420b60" },
+  "nvim-lspconfig": { "branch": "master", "commit": "ac478757efcde1ac346f7044ab774e7cbb482533" },
+  "nvim-treesitter": { "branch": "master", "commit": "d96c216c54cc2d48d3c66ba7f0fc3c7c5b71b3b1" },
+  "nvim-treesitter-textobjects": { "branch": "master", "commit": "bd103502252027434ec42f628d2dbf54821d4ce6" },
   "vim-enfocado": { "branch": "main", "commit": "845835a58d285eb8c1ced5dba83bfdec6e40d828" },
   "vim-fugitive": { "branch": "master", "commit": "99db68d9b3304580bd383da7aaee05c7a954a344" }
 }
